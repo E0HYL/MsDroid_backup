@@ -1,6 +1,6 @@
 # MsDroid (under review)
 
-### [Source Code](https://github.com/MalwareDetection/GraphDroid/tree/master/src)
+### [Source Code](https://github.com/E0HYL/MsDroid/tree/main/src)
 
 Run the `test` script (with `model.pkl` in `./src/classification`):
 
@@ -53,7 +53,7 @@ $outputdir
 
 > The `train` code will be released after the paper is published.
 
-### [Processed Graph Data](https://github.com/MalwareDetection/GraphDroid/tree/master/Datasets)
+### [Processed Graph Data](https://github.com/E0HYL/MsDroid/tree/main/Datasets)
 
 `.pt` file is named after *APK ID* and *Behavior Subgraph ID*. 
 
