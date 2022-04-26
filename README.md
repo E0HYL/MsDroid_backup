@@ -1,8 +1,6 @@
 # MsDroid
 
-A GNN-based Android malware detector in paper "MsDROID: Identifying Malicious Snippets for Android Malware Detection".
-
-- 2022-04-15: Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the Transactions on Dependable and Secure Computing (TDSC).
+https://github.com/E0HYL/MsDroid
 
 ### Preparations
 
